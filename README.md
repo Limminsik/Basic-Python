@@ -32,3 +32,8 @@ Jupyter Notebook / Jupyter Lab : 기능은 같다.
        명령어 치다가 Tab 누르면 명령어 자동화 및 검색 해줌 !
        
 Jupyter extension 설치  https://github.com/jupyterlab/jupyterlab-toc
+
+
+## 07_18 변수를 담아놓는 주머니, '자료형'
+ ## RAM
+  
