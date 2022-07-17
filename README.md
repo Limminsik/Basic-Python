@@ -35,5 +35,5 @@ Jupyter extension 설치  https://github.com/jupyterlab/jupyterlab-toc
 
 
 ## 07_18 변수를 담아놓는 주머니, '자료형'
- ## RAM
+ # RAM
   
