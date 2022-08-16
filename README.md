@@ -39,9 +39,7 @@ Jupyter extension 설치  https://github.com/jupyterlab/jupyterlab-toc
  - 변수 할당하기
     a = 1
  - 자료형 변수
-    - RAM이 변수를 저장하는 방식
-    - 컴퓨터가 추후에 변수관련 연산을 할때 용이
-    - 클래스( Class )
+
     - 숫자( Integer 정수형, float ) : a =1, b = 2,3, c - -5
     - ### C언어의 경우 : int(a) = 1, float(b) = 2,3
     
