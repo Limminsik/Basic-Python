@@ -38,5 +38,9 @@ Jupyter extension 설치  https://github.com/jupyterlab/jupyterlab-toc
  CPU : 연산장치, Disk : 저장공간, RAM : context 처리공간
  - 변수 할당하기
     a = 1
- 
+ - 자료형 변수
+    - RAM이 변수를 저장하는 방식
+    - 컴퓨터가 추후에 변수관련 연산을 할때 용이
+    - 클래스( Class )
+    
 
