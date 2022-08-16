@@ -34,6 +34,8 @@ Jupyter Notebook / Jupyter Lab : 기능은 같다.
 Jupyter extension 설치  https://github.com/jupyterlab/jupyterlab-toc
 
 
-## 07_18 변수를 담아놓는 주머니, '자료형'
- # RAM
-  
+## 08_16 변수를 담아놓는 주머니, '자료형'
+ CPU : 연산장치, Disk : 저장공간, Ram :  
+ 
+
+
