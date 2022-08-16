@@ -35,8 +35,7 @@ Jupyter extension 설치  https://github.com/jupyterlab/jupyterlab-toc
 
 
 # 08_16 변수를 담아놓는 주머니, '자료형'
- CPU : 연산장치, Disk : 저장공간
- RAM : context처리공간
+ CPU : 연산장치, Disk : 저장공간, RAM : context 처리공간
  - 변수 할당하기
     a = 1
  
