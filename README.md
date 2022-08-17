@@ -1,6 +1,4 @@
-TIL
-=============
-인프런 파이썬 강의
+TIL / 인프런 파이썬 강의
 =============
 
 
@@ -21,7 +19,7 @@ Jupyter Notebook / Jupyter Lab : 기능은 같다.
 
    Markdown : Code가 아닌 텍스트 작성, https://gist.github.com/ihoneymon/652be052a0727ad59601 참고
     
-# Python 수업
+# Python Class
 ## 셀에 대해서 배워봅시다
 - 안녕하세요
   - 저는
