@@ -44,4 +44,4 @@ Jupyter extension 설치  https://github.com/jupyterlab/jupyterlab-toc
     - ### C언어의 경우 : int(a) = 1, float(b) = 2,3
     
  - list 자료형 : a = [ ]  #[]를 활용하는 것이 list
- - indexing : - 0부터 
+ - indexing : - 0부터 시작한다.
