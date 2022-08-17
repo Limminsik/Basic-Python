@@ -43,5 +43,5 @@ Jupyter extension 설치  https://github.com/jupyterlab/jupyterlab-toc
     - 숫자( Integer 정수형, float ) : a =1, b = 2,3, c - -5
     - ### C언어의 경우 : int(a) = 1, float(b) = 2,3
     
- - list 자료형 : 
- - 
+ - list 자료형 : a = [ ]  #[]를 활용하는 것이 list
+ - indexing : - 0부터 
