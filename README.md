@@ -35,7 +35,7 @@ Jupyter extension 설치  https://github.com/jupyterlab/jupyterlab-toc
 
 
 # 08_16 변수를 담아놓는 주머니, '자료형'
- CPU : 연산장치, Disk : 저장공간, RAM : context 처리공간
+ ## CPU : 연산장치, Disk : 저장공간, RAM : context 처리공간
  - 변수 할당하기
     a = 1
  - 자료형 변수
@@ -47,10 +47,10 @@ Jupyter extension 설치  https://github.com/jupyterlab/jupyterlab-toc
  - indexing : - 0부터 시작한다., -1 indexing : 맨 뒤, -2 indexing : 뒤에서 2번째
  - "범위" indexing : class_score[0:1] 0이상 1미만
 
-다차원 list : [ ]
+ ## 다차원 list : [ ]
  - [[1,2], [1.2.3.]]
 
-튜플(Tuple) : ( )
+ ## 튜플(Tuple) : ( )
  - mutable vs immutalbe : 'tuple' object does not support item assignment
- - a = (1, 2,) ________#0817
+ - a = (1, 2,) _________##0817
 
