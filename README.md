@@ -52,5 +52,5 @@ Jupyter extension 설치  https://github.com/jupyterlab/jupyterlab-toc
 
 튜플(Tuple) : ( )
  - mutable vs immutalbe : 'tuple' object does not support item assignment
- - a = (1, 2,)
+ - a = (1, 2,) ________#0817
 
