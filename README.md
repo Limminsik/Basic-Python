@@ -43,5 +43,14 @@ Jupyter extension 설치  https://github.com/jupyterlab/jupyterlab-toc
     - 숫자( Integer 정수형, float ) : a =1, b = 2,3, c - -5
     - ### C언어의 경우 : int(a) = 1, float(b) = 2,3
     
- - list 자료형 : a = [ ],  주석# []를 활용하는 것이 list
- - indexing : - 0부터 시작한다.
+ - list 자료형 : a = [ ],  [ ]를 이용하는것이 list
+ - indexing : - 0부터 시작한다., -1 indexing : 맨 뒤, -2 indexing : 뒤에서 2번째
+ - "범위" indexing : class_score[0:1] 0이상 1미만
+
+다차원 list : [ ]
+ - [[1,2], [1.2.3.]]
+
+튜플(Tuple) : ( )
+ - mutable vs immutalbe : 'tuple' object does not support item assignment
+ - a = (1, 2,)
+
