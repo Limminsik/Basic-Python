@@ -59,3 +59,4 @@ Jupyter extension 설치  https://github.com/jupyterlab/jupyterlab-toc
   - 리스트와의 차이 : Find operation speed
 
 ## 집합(set)
+    #집합은 원소의 순서가 유지되지 않고, 중복 원소를 갖지 않는다. 
