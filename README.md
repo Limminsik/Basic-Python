@@ -50,5 +50,14 @@ Jupyter extension 설치  https://github.com/jupyterlab/jupyterlab-toc
 
  ## 튜플(Tuple) : ( )
  - mutable vs immutalbe : 'tuple' object does not support item assignment
- - a = (1, 2,) _________##0817
+ - a = (1, 2,) _________
+ 
+ ## 문자열(String)
+    #문자열이란 문자, 단어 등으로 구성된 문자들의 집합 
+ - 문자열 = 스트링(String) = 문자열 스트링(String)
 
+ 
+ ## 딕셔너리(dict)
+    #딕셔너리 자료형은 키(Key)와 값(Value)의 쌍으로 이루어진다.
+  - Hashtable 메모리 저장 방식
+  - 리스트와의 차이 : Find operation speed
