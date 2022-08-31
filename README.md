@@ -63,4 +63,8 @@ https://aquaorinfosec.tistory.com/17
     #집합은 원소의 순서가 유지되지 않고, 중복 원소를 갖지 않는다. 
   - 
 
-## 
+## 불(Bool, Boolean)
+    #True / False 의 값을 갖는 변수
+  - a = True, b = False
+  - a < 1
+  - a == -1,  == : ~와 같니 ? 
