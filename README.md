@@ -28,7 +28,8 @@ Jupyter Notebook / Jupyter Lab : 기능은 같다.
 Jupyter extension 설치  https://github.com/jupyterlab/jupyterlab-toc
 
 
-# 08_16 변수를 담아놓는 주머니, '자료형'
+# 08_16 변수를 담아놓는 주머니, '자료형' 
+https://aquaorinfosec.tistory.com/17
  ## CPU : 연산장치, Disk : 저장공간, RAM : context 처리공간
  - 변수 할당하기
     a = 1
@@ -60,3 +61,6 @@ Jupyter extension 설치  https://github.com/jupyterlab/jupyterlab-toc
 
 ## 집합(set)
     #집합은 원소의 순서가 유지되지 않고, 중복 원소를 갖지 않는다. 
+  - 
+
+## 
