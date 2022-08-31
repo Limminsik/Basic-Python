@@ -61,3 +61,5 @@ Jupyter extension 설치  https://github.com/jupyterlab/jupyterlab-toc
     #딕셔너리 자료형은 키(Key)와 값(Value)의 쌍으로 이루어진다.
   - Hashtable 메모리 저장 방식
   - 리스트와의 차이 : Find operation speed
+
+## 집합(set)
